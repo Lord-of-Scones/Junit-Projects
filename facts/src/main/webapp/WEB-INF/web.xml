@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="WebApp_ID" version="4.0">
+  <display-name>facts</display-name>
+  <welcome-file-list>
+    <welcome-file>FactServlet</welcome-file>
+  </welcome-file-list>
+</web-app>
